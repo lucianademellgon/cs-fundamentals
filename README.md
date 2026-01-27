@@ -1,8 +1,5 @@
 # Computer Science Fundamentals
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Academic_Archive-success?style=for-the-badge)
-
 ## Overview
 This repository serves as a **technical laboratory** where I implement core Computer Science concepts to solve complex logical problems. 
 
@@ -63,7 +60,7 @@ This repository serves as evidence of proficiency in:
 These implementations are presented as **Jupyter Notebooks** to visualize the logic flow and algorithmic output step-by-step.
 
 To run the simulations:
-1. Clone the repo: `git clone https://github.com/lucianademellgon/cs-fundamentals-lab.git`
+1. Clone the repo: `git clone https://github.com/lucianademellgon/cs-fundamentals.git`
 2. Install dependencies (if any): `pip install notebook`
 3. Launch Jupyter: `jupyter notebook`
 
