@@ -12,7 +12,7 @@ Unlike simple scripting, this collection focuses on **architectural patterns**, 
 ### ✈️ 1. Network Optimization & Pathfinding (Graph Theory)
 *Located in: `/network_optimization`*
 * **The Challenge:** Modeling a complex airline network to calculate connectivity and route efficiency between terminals.
-* **Key Concepts:** * Directed and Weighted Graphs.
+* **Key Concepts:** Directed and Weighted Graphs.
     * **Pathfinding Algorithms** (DFS/BFS) for route planning.
     * Adjacency Lists vs. Adjacency Matrices.
 * **Academic Context:** Implementation of *Data Structures & Algorithms* coursework.
