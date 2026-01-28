@@ -65,5 +65,5 @@ To run the simulations:
 3. Launch Jupyter: `jupyter notebook`
 
 ---
-*Developed by **Luciana De Mello González** - Data Engineering Student @ UTEC*
+*Developed by **Luciana De Mello González** - Data Engineering Student at UTEC (Uruguay).*
 *Focusing on building scalable and efficient software solutions.*
